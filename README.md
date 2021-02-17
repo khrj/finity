@@ -1,6 +1,6 @@
 # Finity (Deno)
 
-A finite state machine library for Node.js and the browser with a friendly configuration DSL.
+A finite state machine library with a friendly configuration DSL.
 
 ## Features
 
