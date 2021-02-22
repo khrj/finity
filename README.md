@@ -9,7 +9,7 @@ See [Finity (Node) Features](https://github.com/nickuraltsev/finity#features)
 ## Example
 
 ```javascript
-import Finity from 'https://deno.land/x/finity@1.0.2/mod.ts'
+import Finity from 'https://deno.land/x/finity@1.0.3/mod.js'
 const worker = Finity
     .configure()
     .initialState("ready")
